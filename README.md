@@ -186,6 +186,7 @@
  * [Astral](http://astralapp.com/) - 功能更加简洁。感觉不方便的地方就是需要先添加tag，才能给项目添加tag。
  * [CODELF](http://unbug.github.io/codelf/) - 基于Google Lovefiled，简洁快速，从开发者角度考虑，用完就走，不给开发者更多的管理负担。开源在GitHub上的链接[unbug/codelf](https://github.com/unbug/codelf)
  * [gitconstellation](http://gitconstellation.com/#/) - GitHub star 管理
+ * [gitential.com](https://gitential.com) - Analytics for Git 
 
 ### 工具
 
