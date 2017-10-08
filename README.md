@@ -169,6 +169,7 @@
  * [choose a license](http://choosealicense.com/) - GitHub发布了choosealicense.com网站，在呼吁开源项目开发者选择一个许可证的同时，还提供了许可证的一些简要说明。
  * [vmap.phodal.com](https://vmap.phodal.com/) - 基于GitHub的O2O应用，寻找身边的GitHub大牛，根据你填写的公司位置查找
  * [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 一些好看的jekyll主题
+ * [gitential.com](https://gitential.com) - Analytics for Git 
  
 #### GitHub Rank
 
