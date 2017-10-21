@@ -156,6 +156,8 @@
  * [Git版本控制与工作流](http://www.jianshu.com/p/67afe711c731) - 针对git版本控制和工作流的总结
  * [在github上写博客](http://www.jianshu.com/p/1260517bbedb) 
  * [GitHub & Bitbucket & GitLab & Coding 的对比分析](http://blog.flow.ci/github-bitbucket-gitlab-coding)
+ * [GitHub 中国区前 100 名到底是什么样的人？](https://www.diycode.cc/topics/23)
+ * [GitHub Universe 大会总结：信息流推荐开源库，推出社区功能](https://juejin.im/post/59dd49dd51882578e310ebd1)
  
 ### 网站
 
@@ -214,6 +216,7 @@
  * [pophub](http://questbe.at/pophub/) - OS X状态栏的APP，显示GitHub 的activities
  * [git-dude](https://github.com/sickill/git-dude) - git commit通知
  * [gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github 漂亮的GitHub数据统计工具，还有notifications功能
+ * [GitHubFolderDownloader](https://github.com/VahidN/GitHubFolderDownloader) - 可以下载一个仓库的单个文件夹的桌面工具
 
 #### App
 
@@ -234,6 +237,8 @@
  * [GithubWidget](https://github.com/Nightonke/GithubWidget) - 轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App。
  * [GitPocket](https://github.com/jindulys/GitPocket) - Swift编写GitHub客户端
  * [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8)
+ * [github](https://github.com/seasonfif/github) - github第三方Android客户端（适配Material Design）
+
 
 #### 插件
 
@@ -279,8 +284,7 @@
  * [git-time-machine](https://github.com/littlebee/git-time-machine) - atom插件查看提交历史
  * [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode插件
  * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - git的vim 插件
-
- 
+ * [github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins的GitHub集成插件
 
 #### 命令行
  * [hub](https://github.com/github/hub) - github官方出品的命令行工具，让你更好地使用github
@@ -316,7 +320,7 @@
  * [svn2git](https://github.com/nirvdrum/svn2git) - ruby 实现的迁移svn工程到git
  * [stupidgit](https://github.com/gyim/stupidgit) - python编写的git的跨平台GUI
  * [GitUp](https://github.com/git-up/GitUp) - Objective-C编写的Mac上的Git客户端
-
+ * [gitea](https://github.com/go-gitea/gitea) - Gitea的首要目标是创建一个极易安装，运行非常快速，安装和使用体验良好的自建 Git 服务。
 
 
 
@@ -352,8 +356,13 @@
  * [go-git](https://github.com/src-d/go-git)- 通过go来从git服务器读取仓库
  * [GitViz](https://github.com/Readify/GitViz) - 帮助你训练git时的可视化工具
  * [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 学习git的可视化工具
+ * [Github](https://github.com/chenjiandongx/Github) - Github 仓库及用户分析爬虫
+ * [github-awards](https://github.com/vdaubry/github-awards) - 发现你GitHub的排名
+ * [micro-github](https://github.com/mxstbr/micro-github) - 简单地实现GitHub授权
+ * [git-changelog-lib](https://github.com/tomasbjerre/git-changelog-lib) - 解析和生成changelog，releasenotes的库
+ * [gitalk](https://github.com/gitalk/gitalk) - Gitalk 是一个基于 Github Issue 和 Preact 开发的评论插件。
 
-
+ 
 #### 库
 
  * [octokit](https://github.com/octokit) - GitHub API的官方封装库
