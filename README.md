@@ -238,7 +238,7 @@
  * [GitPocket](https://github.com/jindulys/GitPocket) - Swift编写GitHub客户端
  * [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8)
  * [github](https://github.com/seasonfif/github) - github第三方Android客户端（适配Material Design）
-
+ * [GitHawk](https://github.com/rnystrom/GitHawk) - 针对 GitHub 项目的项目管理应用
 
 #### 插件
 
@@ -361,7 +361,7 @@
  * [micro-github](https://github.com/mxstbr/micro-github) - 简单地实现GitHub授权
  * [git-changelog-lib](https://github.com/tomasbjerre/git-changelog-lib) - 解析和生成changelog，releasenotes的库
  * [gitalk](https://github.com/gitalk/gitalk) - Gitalk 是一个基于 Github Issue 和 Preact 开发的评论插件。
-
+ * [GSIL](https://github.com/FeeiCN/GSIL) - 实时（15分钟内）的发现Github上泄露的信息
  
 #### 库
 
