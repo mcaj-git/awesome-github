@@ -172,6 +172,7 @@
  * [vmap.phodal.com](https://vmap.phodal.com/) - 基于GitHub的O2O应用，寻找身边的GitHub大牛，根据你填写的公司位置查找
  * [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 一些好看的jekyll主题
  * [gitential.com](https://gitential.com) - Analytics for Git 
+ * [feathub](https://github.com/feathub/feathub)  - GitHub上投票的网站
  
 #### GitHub Rank
 
