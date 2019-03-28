@@ -180,7 +180,7 @@
  * [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
  * [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言
  * [diycode - GitHub Ranking](http://www.diycode.cc/trends) - GitHub 全球 Developers, Organizations and Repositories 排行榜
-
+ * [github-battle](https://github-battle-2.firebaseapp.com/popular) - GitHub仓库排名
 
 #### Star管理
 
