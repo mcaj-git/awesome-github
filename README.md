@@ -19,6 +19,7 @@
 	- [常用工具](#常用工具)
 	- [桌面工具](#桌面工具)
 	- [App](#app)
+	- [小程序](#小程序)
 	- [插件](#插件)
 	- [命令行](#命令行)
 	- [Git平台与工具](#git平台与工具)
@@ -158,6 +159,10 @@
  * [GitHub & Bitbucket & GitLab & Coding 的对比分析](http://blog.flow.ci/github-bitbucket-gitlab-coding)
  * [GitHub 中国区前 100 名到底是什么样的人？](https://www.diycode.cc/topics/23)
  * [GitHub Universe 大会总结：信息流推荐开源库，推出社区功能](https://juejin.im/post/59dd49dd51882578e310ebd1)
+ * [2018 GitHub 年终盘点](https://juejin.im/post/5c288849518825124e277137)
+ * [[译] GitHub Actions 介绍，了解一下？](https://juejin.im/post/5be191736fb9a049de6cd463)
+ * [漫话：如何给女朋友解释什么是Git和GitHub？](https://juejin.im/post/5ca16da36fb9a05e42555bf5)
+
  
 ### 网站
 
@@ -173,6 +178,9 @@
  * [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 一些好看的jekyll主题
  * [gitential.com](https://gitential.com) - Analytics for Git 
  * [feathub](https://feathub.com)  - GitHub上投票的网站
+ * [git-history](https://github.com/pomber/git-history) - 这个工具可以非常形象地展示某个文件的提交历史，包括提交开发者的信息和时间，提交后文件的内容。
+
+
  
 #### GitHub Rank
 
@@ -240,6 +248,11 @@
  * [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8)
  * [github](https://github.com/seasonfif/github) - github第三方Android客户端（适配Material Design）
  * [GitHawk](https://github.com/rnystrom/GitHawk) - 针对 GitHub 项目的项目管理应用
+ * [CoolHub](https://github.com/m4coding/CoolHub) - Github Android客户端（基于kotlin和组件化）
+
+#### 小程序
+
+ * [Gitter](https://github.com/huangjianke/Gitter) - GitHub小程序客户端
 
 #### 插件
 
@@ -286,6 +299,8 @@
  * [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode插件
  * [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - git的vim 插件
  * [github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins的GitHub集成插件
+ * [OctoLinker](https://github.com/OctoLinker/OctoLinker) - 浏览器插件，作用主要是可以跳转到导入的库代码中
+ * [octohint](https://github.com/pd4d10/octohint) - 可以帮助阅读代码时候，搜索定位同个变量出现的位置
 
 #### 命令行
  * [hub](https://github.com/github/hub) - github官方出品的命令行工具，让你更好地使用github
