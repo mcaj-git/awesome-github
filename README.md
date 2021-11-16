@@ -167,7 +167,7 @@
  * [gitential.com](https://gitential.com) - Analytics for Git 
  * [feathub](https://feathub.com)  - GitHub上投票的网站
  * [git-history](https://github.com/pomber/git-history) - 这个工具可以非常形象地展示某个文件的提交历史，包括提交开发者的信息和时间，提交后文件的内容。
-
+ * [githut](https://githut.info/) - GitHub上语言排名
 
  
 #### GitHub Rank
